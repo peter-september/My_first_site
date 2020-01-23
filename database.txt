@@ -1,0 +1,6 @@
+
+peter.september@takealot.com,trying 1,
+ashleigh@gmail.com,next one,
+peter.september@takealot.com,[Product] Can you give me more information about a product?,
+peter.september@takealot.com,[Orders] Not what I ordered [Replacement],Is it working?
+ashleigh.october@gmail.com,,jhjh
